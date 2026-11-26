@@ -1,2 +1,3 @@
 # github-essentials-lab
 A practical experiment on Git and GitHub essentials.
+This experiment demonstrates the fundamentals of Git and GitHub, including repository creation, version control operations, secure authentication, Markdown documentation, and static website deployment using GitHub Pages. The project provides hands-on experience with industry-standard development workflows and collaborative coding practices.
